@@ -1,0 +1,13 @@
+{
+	"name": "@namespace/component-b",
+	"version": "0.0.0",
+	"module": "./index.js",
+	"publishConfig": {
+		"access": "restricted"
+	},
+	"repository": {
+		"type": "git",
+		"url": "ssh://git@github.com:yourgithubrepo"
+	},
+	"dependencies": {}
+}
